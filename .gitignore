@@ -1,0 +1,7 @@
+public/
+.DS_Store
+__pycache__/
+# Unpublished drafts from /check-services stay on this Mac only
+content/drafts/
+# Personal Claude Code settings
+.claude/settings.local.json

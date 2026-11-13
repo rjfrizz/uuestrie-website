@@ -1,0 +1,135 @@
+{
+  "name": "UUEstrie",
+  "tagline_en": "A Unitarian Universalist Spiritual Community in the Eastern Townships",
+  "tagline_fr": "Une communauté spirituelle unitarienne universaliste en Estrie",
+  "description": "UUEstrie is a liberal spiritual community in North Hatley, Quebec, gathering since 1886. Sunday services at 10:30 a.m. — everyone welcome. Communauté spirituelle libérale à North Hatley depuis 1886.",
+  "base_url": "https://uuestrie.ca",
+  "timezone": "America/Toronto",
+  "email": "info@uuestrie.ca",
+  "phone": "819-842-4146",
+  "phone_tel": "+18198424146",
+  "address": {
+    "street": "201 Main Street / 201, rue Main",
+    "city": "North Hatley",
+    "postal": "J0B 2C0"
+  },
+  "default_location_en": "UUEstrie, 201 Main Street, North Hatley QC",
+  "default_location_fr": "UUEstrie, 201, rue Main, North Hatley (Québec)",
+  "map_url": "https://www.google.com/maps/place/45%C2%B017'50.8%22N+71%C2%B055'50.7%22W/@45.297444,-71.930751,17z",
+  "facebook": "https://www.facebook.com/uuestrie/",
+  "canadahelps_en": "https://www.canadahelps.org/en/charities/unitarian-universalist-church-of-north-hatley-uu-estrie/",
+  "canadahelps_fr": "https://www.canadahelps.org/fr/organismesdebienfaisance/unitarian-universalist-church-of-north-hatley-uu-estrie/",
+  "newsletter_action": "https://uuestrie.us19.list-manage.com/subscribe/post?u=4d037c98d26418eabf4a05a3c&id=172334d646&f_id=009883e3f0",
+  "newsletter_bot_field": "b_4d037c98d26418eabf4a05a3c_172334d646",
+  "coming_soon": [
+    {
+      "date": "2026-11-22",
+      "text": "Amy Panetta"
+    },
+    {
+      "date": "2026-11-29",
+      "text": "Rev. Paul Sawyer, First Universalist Society of Hartland, VT · Potluck & discussion on the roots of monotheism with Dr. Aaron Ricker & George Weller",
+      "text_fr": "Rév. Paul Sawyer, First Universalist Society of Hartland (Vermont) · Repas-partage et discussion sur les origines du monothéisme avec Aaron Ricker, Ph. D., et George Weller"
+    }
+  ],
+  "nav": [
+    {
+      "en": "Events",
+      "fr": "Événements",
+      "url": "/events/"
+    },
+    {
+      "en": "Visit",
+      "fr": "Visiter",
+      "url": "/visit/"
+    },
+    {
+      "en": "About us",
+      "fr": "Qui sommes-nous",
+      "url": "/about/",
+      "children": [
+        {
+          "en": "Who are we?",
+          "fr": "Qui sommes-nous ?",
+          "url": "/about/"
+        },
+        {
+          "en": "Mission and Values",
+          "fr": "Mission et valeurs",
+          "url": "/about/mission/"
+        },
+        {
+          "en": "Our Vision",
+          "fr": "Notre vision",
+          "url": "/about/vision/"
+        },
+        {
+          "en": "Our Principles",
+          "fr": "Nos principes",
+          "url": "/about/principles/"
+        },
+        {
+          "en": "Membership",
+          "fr": "Devenir membre",
+          "url": "/about/membership/"
+        },
+        {
+          "en": "Leadership Circle",
+          "fr": "Cercle de leadership",
+          "url": "/about/leadership/"
+        },
+        {
+          "en": "History",
+          "fr": "Histoire",
+          "url": "/about/history/"
+        },
+        {
+          "en": "Guide to the Church",
+          "fr": "Guide de l’église",
+          "url": "/about/guide/"
+        }
+      ]
+    },
+    {
+      "en": "Children",
+      "fr": "Enfants",
+      "url": "/childrens-re/"
+    },
+    {
+      "en": "Ceremonies",
+      "fr": "Cérémonies",
+      "url": "/ceremonies/",
+      "children": [
+        {
+          "en": "Weddings and rites of passage",
+          "fr": "Mariages et rites de passage",
+          "url": "/ceremonies/"
+        },
+        {
+          "en": "Our space and rentals",
+          "fr": "Nos locaux et location",
+          "url": "/ceremonies/space/"
+        }
+      ]
+    },
+    {
+      "en": "News",
+      "fr": "Nouvelles",
+      "url": "/news/"
+    },
+    {
+      "en": "Contact",
+      "fr": "Contact",
+      "url": "/accueil/contact/"
+    }
+  ],
+  "redirects": {
+    "/accueil/": "/",
+    "/calendar/": "/events/",
+    "/sample-page/": "/accueil/privacy-policy/",
+    "/space/": "/ceremonies/space/",
+    "/contact/": "/accueil/contact/",
+    "/privacy/": "/accueil/privacy-policy/",
+    "/accueil/links/member-services/": "/"
+  }
+}
